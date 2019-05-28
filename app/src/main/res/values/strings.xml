@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Vasavi Hostel Union</string>
+    <string name="navigation_draw_open">Open navigation draw</string>
+    <string name="navigation_draw_close">Close navigation draw</string>
+    <string name="ot_message">
+        Hello,\n\n
+        Welcome to Vasavi Hostel Union!\n\n
+        We are sure all of us want this reunion event to happen at the Hostel Place…..  and YES we did it 😊\n
+        We are glad inform you all that we have moved one more step further and succeeded in taking prima facie approval from the Mr.Manandi Suresh, President of Vasavi Hostel Trust to host the reunion event at the New Auditorium built at the Hostel place.\n
+        We thank you Mr.Balaji.H.J (2010-13) who helped in getting this prima facie approval.\n
+        We also want to inform you that, OT has been actively discussing separately and meeting soon to work out the detailed plan.\n
+        More updates will follow…. 😊\n\n
+
+        Cheers......🥳🎊🎉🎊🎉\n
+        Organising Team:\n
+        Narendra (2000)\n
+        Sumanth M R (2000)\n
+        Vishnu (2001)\n
+        Thribhuvan (2009)\n
+        Vinay (2010)\n
+        Deekshith (2010)\n
+        Venkatesh (2010)\n
+        Balaji H J (2010)\n
+    </string>
+    <string name="developer_contact">
+        Contact: Sandeep R\n\n
+        (kadursandy@gmail.com)
+    </string>
+</resources>
